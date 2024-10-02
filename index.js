@@ -5,6 +5,7 @@ const app = express()
 const dust = 3300
 const port = 3000
 const zsindely = "Dézsi Vivien"
+const Peti = meleg
 
 app.listen(port, () => {
   htzj  console.log(`App started at http://localhost:${port}`)
