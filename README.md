@@ -1,2 +1,2 @@
 # gyakorlo jani
-# https://www.youtube.com/watch?v=VSXaKGJC1xM
+# https://www.youtube.com/watch?v=VSXaKGJC1xM  tangozzunk kicsit
