@@ -1,1 +1,1 @@
-# gyakorlo
+# gyakorlo jani
